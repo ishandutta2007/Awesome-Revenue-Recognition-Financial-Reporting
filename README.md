@@ -4,10 +4,12 @@
 
 # 📊 Awesome Revenue Recognition & Financial Reporting 📑✨
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?ttyle=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Revenue-Recognition-Financial-Reporting/blob/main/README.md)
 [![Topics](https://img.shields.io/github/topics/ishandutta2007/Awesome-Revenue-Recognition-Financial-Reporting?color=blueviolet)](https://github.com/ishandutta2007/Awesome-Revenue-Recognition-Financial-Reporting)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow"//></a>
 
 > **A curated showcase of top Revenue Recognition and Financial Reporting platforms** — spanning enterprise SaaS solutions, record-to-report automation, and open-source engines for automating **ASC 606 / IFRS 15 compliance**, deferred revenue schedules, multi-entity financial close, and board-ready reporting. 🚀
 > 
@@ -24,6 +26,8 @@
 - [💻 Open-Source Software & Accounting Engines](#-open-source-software--accounting-engines)
   - [Open-Source Solutions Overview](#open-source-solutions-overview)
 - [📊 Feature Matrix & Comparison at a Glance](#-feature-matrix--comparison-at-a-glance)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
 - [📄 License](#-license)
 
@@ -172,6 +176,24 @@ If you know of a production-grade open-source or commercial financial reporting 
    - Accurate starting pricing and exact free tier/trial limits
 3. **Ensure strict adherence** to ASC 606, IFRS 15, or general ledger financial reporting relevance.
 4. **Submit your Pull Request** with a concise summary of the addition! 🚀
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Revenue-Recognition-Financial-Reporting&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Revenue-Recognition-Financial-Reporting&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated guide! 🌟 
+
+If you find this repository valuable for your work, team, or studies, please consider supporting the project:
+- ⭐ **Star** this repository to help others discover it
+- 🍴 **Fork** it and contribute new tools, insights, or corrections
+- 📢 **Share** it with your fellow engineers, CPAs, FP&A leads, and tech enthusiasts
+- ☕ **Buy a Coffee / Sponsor**: If you'd like to support ongoing maintenance and new curated additions, you can sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your generosity is deeply appreciated! 💖
 
 ---
 
