@@ -59,9 +59,9 @@ Below is a comparative breakdown of leading commercial Revenue Recognition and F
 
 ## 💻 Open-Source Software & Accounting Engines
 
-Open-source solutions for financial reporting, accounting ledgers, and revenue pipelines sorted by **GitHub Stars (Descending)**.
+Open-source solutions for financial reporting, accounting ledgers, and revenue pipelines sorted by **GitHub_Stars (Descending)**.
 
-| Software | GitHub Stars ⭐ | Primary Stack 🛠️ | License 📜 | Self-Hosted 🏠 | Focus & Capabilities 🎯 |
+| Software | GitHub_Stars ⭐ | Primary Stack 🛠️ | License 📜 | Self-Hosted 🏠 | Focus & Capabilities 🎯 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [**Odoo**](https://github.com/odoo/odoo) 🌐 | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Python / JavaScript / PostgreSQL | LGPL-3.0 | ✅ | Extensible ERP suite with multi-currency ledgers, deferred expense/revenue schedules, and balance sheet reporting. |
 | [**ERPNext**](https://github.com/frappe/erpnext) 📦 | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Python / Frappe / MariaDB | GPL-3.0 | ✅ | Complete open-source ERP with native deferred revenue recognition, general ledger, and P&L / Cash Flow statements. |
@@ -171,7 +171,7 @@ If you know of a production-grade open-source or commercial financial reporting 
 1. **Fork the repository** 🍴
 2. **Add the project details** to the relevant table and descriptions:
    - Tool Name, Link, and Logo/Emoji
-   - GitHub Stars Badge (social style, white color, linking to stargazers)
+   - GitHub_Stars_Badge (social style, white color, linking to stargazers)
    - Technology Stack and License
    - Accurate starting pricing and exact free tier/trial limits
 3. **Ensure strict adherence** to ASC 606, IFRS 15, or general ledger financial reporting relevance.
